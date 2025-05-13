@@ -18,5 +18,5 @@ Um dos programas mais clássicos feito por todo dev iniciante (só perdendo pra 
 - As respostas devem conter no máximo 2 casas decimais
 - O programa deve continuar rodando até que o usuário indique para sair.
 ####  O programa deve alertar o usuário quando:
-- Uma operação for realizada com divisor igual a 0 ("Não é possível dividir por 0") 
-- Caso o programa receba um valor negativo
+- Uma operação for realizada com divisor igual a 0 ("Não é possível dividir por 0")
+- Quando o valor digitado for um texto 
