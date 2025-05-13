@@ -1,0 +1,15 @@
+C:\MeusProjetos\DesafiosAds\Desafio1\CalculadoraCsharp\bin\Debug\net9.0\CalculadoraCsharp.exe
+C:\MeusProjetos\DesafiosAds\Desafio1\CalculadoraCsharp\bin\Debug\net9.0\CalculadoraCsharp.deps.json
+C:\MeusProjetos\DesafiosAds\Desafio1\CalculadoraCsharp\bin\Debug\net9.0\CalculadoraCsharp.runtimeconfig.json
+C:\MeusProjetos\DesafiosAds\Desafio1\CalculadoraCsharp\bin\Debug\net9.0\CalculadoraCsharp.dll
+C:\MeusProjetos\DesafiosAds\Desafio1\CalculadoraCsharp\bin\Debug\net9.0\CalculadoraCsharp.pdb
+C:\MeusProjetos\DesafiosAds\Desafio1\CalculadoraCsharp\obj\Debug\net9.0\CalculadoraCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\MeusProjetos\DesafiosAds\Desafio1\CalculadoraCsharp\obj\Debug\net9.0\CalculadoraCsharp.AssemblyInfoInputs.cache
+C:\MeusProjetos\DesafiosAds\Desafio1\CalculadoraCsharp\obj\Debug\net9.0\CalculadoraCsharp.AssemblyInfo.cs
+C:\MeusProjetos\DesafiosAds\Desafio1\CalculadoraCsharp\obj\Debug\net9.0\CalculadoraCsharp.csproj.CoreCompileInputs.cache
+C:\MeusProjetos\DesafiosAds\Desafio1\CalculadoraCsharp\obj\Debug\net9.0\CalculadoraCsharp.sourcelink.json
+C:\MeusProjetos\DesafiosAds\Desafio1\CalculadoraCsharp\obj\Debug\net9.0\CalculadoraCsharp.dll
+C:\MeusProjetos\DesafiosAds\Desafio1\CalculadoraCsharp\obj\Debug\net9.0\refint\CalculadoraCsharp.dll
+C:\MeusProjetos\DesafiosAds\Desafio1\CalculadoraCsharp\obj\Debug\net9.0\CalculadoraCsharp.pdb
+C:\MeusProjetos\DesafiosAds\Desafio1\CalculadoraCsharp\obj\Debug\net9.0\CalculadoraCsharp.genruntimeconfig.cache
+C:\MeusProjetos\DesafiosAds\Desafio1\CalculadoraCsharp\obj\Debug\net9.0\ref\CalculadoraCsharp.dll
